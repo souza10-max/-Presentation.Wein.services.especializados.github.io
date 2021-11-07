@@ -1,0 +1,1 @@
+alert("cheguei em casa já tinham colocado o poste de luz , da calçada sem previa autorização do proprietário do imóvel , retiram -se o antigo e aproximaram 25 cm a mais na entrada do meu portão de garagem . A  vizinho  me ligou  meu tele");
